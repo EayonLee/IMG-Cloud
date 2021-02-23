@@ -12,7 +12,7 @@
 
   ![](https://cdn.jsdelivr.net/gh/EayonLee/IMG-Cloud@master/data/1.png)
 
-* **填写仓库信息 **
+* **填写仓库信息**
 
   ![](https://cdn.jsdelivr.net/gh/EayonLee/IMG-Cloud@master/data/2.png)
 
